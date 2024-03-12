@@ -13,3 +13,4 @@ This section contains decision making statements and control structures exercise
 | 7-islower.py | a function that checks for lowercase character. |
 | 9-print_last_digit.py | a function that prints the last digit of a number. |
 | 10-add.py | a function that adds two integers and returns the result. |
+| 11-pow.py | a function that computes a to the power of b and return the value. |
