@@ -11,3 +11,4 @@ This section contains decision making statements and control structures exercise
 | 5-print_comb2.py | a program that prints numbers from 0 to 99 |
 | 6-print_comb3.py | a program that prints all possible different combinations of two digits. |
 | 7-islower.py | a function that checks for lowercase character. |
+| 9-print_last_digit.py | a function that prints the last digit of a number. |
